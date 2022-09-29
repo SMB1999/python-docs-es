@@ -12,6 +12,7 @@ Traducción al Español de la Documentación de Python
 
 ¿Cómo contribuir?
 -----------------
+// live your live live your dream
 
 Tenemos una guía que te ayudará a contribuir en: https://python-docs-es.readthedocs.io/page/CONTRIBUTING.html.
 Por favor, consulta para saber más detalles.
